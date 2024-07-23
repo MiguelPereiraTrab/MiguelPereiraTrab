@@ -9,7 +9,7 @@ I´m a final-year Computer Science student at the Polytechnic Institute of Tomar
 * 📱 Android
 * 💻 JS / HTML / CSS / React
 
-[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=~MiguelPereiraTrab)](https://github.com/anuraghazra/github-readme-stats)
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelPereiraTrab)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
