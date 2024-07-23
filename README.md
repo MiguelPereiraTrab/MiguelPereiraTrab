@@ -4,4 +4,4 @@ I´m a final-year Computer Engineering student at the Polytechnic Institute of T
 
 Connect with me on LinkedIn at https://www.linkedin.com/in/miguel-pereira-1b7867262/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelPereiraTrab)](https://github.com/anuraghazra/github-readme-stats)
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelPereiraTrab)](https://github.com/anuraghazra/github-readme-stats)
